@@ -14,7 +14,7 @@ export default function Home() {
           Domínio à venda
         </h1>
         <h3 className={styles.title}>
-          <em>Entre em contato através do email:</em> <br>
+          <em>Entre em contato através do email:</em> <br> </br>
           <em>xico.petry@gmail.com</em>
         </h3>
       </main>
