@@ -11,14 +11,8 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Domínio à venda
+          Confraria da Mulher
         </h1>
-        <h3>
-          <em>Entre em contato através do email:</em>
-        </h3>
-        <h3>
-          <em>xico.petry@gmail.com</em>
-        </h3>
       </main>
     </div>
   )
